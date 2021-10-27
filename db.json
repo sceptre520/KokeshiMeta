@@ -1,26 +1,24 @@
 {
-  "KKS":[
-    {
-      "name": "KKS1",
-      "description": "First Kokeshi",
-      "image": "https://ipfs.io/ipfs/QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW?filename=st-bernard.png",
-      "attributes": [
-        {
-          "trait_type": "cuteness",
-          "value": 100
-        }
-      ]
-    },
-    {
-      "name": "KKS2",
-      "description": "Second Kokeshi",
-      "image": "https://ipfs.io/ipfs/QmabEYR89XGsE93CSbQpLxJ6ehuC1sRQNeoaVorSf6MRCL?filename=Sceptre.png",
-      "attributes": [
-        {
-          "trait_type": "cuteness",
-          "value": 100
-        }
-      ]
-    }
-  ]
+  "KKS1":{
+    "name": "KKS1",
+    "description": "First Kokeshi",
+    "image": "https://ipfs.io/ipfs/QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW?filename=st-bernard.png",
+    "attributes": [
+      {
+        "trait_type": "cuteness",
+        "value": 100
+      }
+    ]
+  },
+  "KKS2":{
+    "name": "KKS2",
+    "description": "Second Kokeshi",
+    "image": "https://ipfs.io/ipfs/QmabEYR89XGsE93CSbQpLxJ6ehuC1sRQNeoaVorSf6MRCL?filename=Sceptre.png",
+    "attributes": [
+      {
+        "trait_type": "cuteness",
+        "value": 100
+      }
+    ]
+  }
 }
